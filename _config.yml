@@ -1,0 +1,28 @@
+name: heartastrology
+favicon: null
+layout_spectrum: 0.14741984708234668
+typography_spectrum: 0.019019606756046414
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8350635576061904
+  lightness: 0.00162196671590209
+  saturation: 0.39204393420368433
+  rhythmicContrast: 0.2798690979834646
+purpose: []
