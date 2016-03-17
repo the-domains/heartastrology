@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[heartastrology]]></title>
-        <description><![CDATA[heartastrology]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Heartastrology]]></title>
+        <description><![CDATA[Heartastrology]]></description>
+        <link>https://thegrid.ai/heartastrology/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 06:27:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Mar 2016 06:37:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/heartastrology/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[8 Exciting Year of the Fire Monkey Facts]]></title>
+            <description><![CDATA[<article><h1>8 Exciting Year of the Fire Monkey Facts</h1><p>The year of the Monkey is here! The monkey is the trickiest of all zodiac signs, a perpetual fun maker who just wants to enjoy life, and never wants to be boxed into a corner. Not only is it a tricky monkey year, but it is the Fire Monkey this year! What does that mean for us, it means we will all experience a lot of monkeying around this year! Nothing should be taken as straight forward, nothing is going to be as it seems, everything is going to be a monkey trick, or perhaps a monkey puzzle.</p></article>]]></description>
+            <link>https://thegrid.ai/heartastrology/8-exciting-year-of-the-fire-monkey-facts/index.html</link>
+            <guid isPermaLink="false">6b4af3ac-2d98-461b-9ab0-22c39967497a</guid>
+            <pubDate>Thu, 17 Mar 2016 06:34:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Dorje L. Kirsten, Classical Astrologer</p>]]></description>
-            <link>undefineddorje-l-kirsten-classical-astrologer/index.html</link>
+            <link>https://thegrid.ai/heartastrology/dorje-l-kirsten-classical-astrologer/index.html</link>
             <guid isPermaLink="false">1936cd9b-af4d-46ac-a966-7faf8a68de29</guid>
-            <pubDate>Thu, 17 Mar 2016 06:27:49 GMT</pubDate>
+            <pubDate>Thu, 17 Mar 2016 06:36:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
