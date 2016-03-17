@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Dorje L. Kirsten, Classical Astrologer'
-datePublished: '2016-03-17T06:27:49.560Z'
-dateModified: '2016-03-17T06:27:30.329Z'
+datePublished: '2016-03-17T06:36:34.353Z'
+dateModified: '2016-03-17T06:27:57.350Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-17-dorje-l-kirsten-classical-astrologer.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-17-dorje-l-kirsten-classical-astrologer.md
-published: true
 url: dorje-l-kirsten-classical-astrologer/index.html
 _type: Article
 
