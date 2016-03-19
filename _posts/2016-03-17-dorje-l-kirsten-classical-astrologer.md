@@ -3,12 +3,12 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: 'Dorje L. Kirsten, Classical Astrologer'
-datePublished: '2016-03-17T06:36:34.353Z'
-dateModified: '2016-03-17T06:27:57.350Z'
-title: ''
+description: 'Dorje Kirsten is a professional astrologer who offers a variety of services to personal and business clients. His method of reading the chart is based primarily on classical, traditional techniques, and informed by nearly 20 years of intensive Buddhist study and practice. Dorje has recieved a CMA (Certified Medieval Astrologer) certification from the AstroLogos school of astrology, having studied with the modern master Beranadette Brady.'
+datePublished: '2016-03-19T02:20:10.289Z'
+dateModified: '2016-03-17T16:08:01.635Z'
+title: 'Astrology with heart for the Discerning Connoisseur '
 author: []
 sourcePath: _posts/2016-03-17-dorje-l-kirsten-classical-astrologer.md
 published: true
@@ -22,7 +22,9 @@ url: dorje-l-kirsten-classical-astrologer/index.html
 _type: Article
 
 ---
-Dorje L. Kirsten, Classical Astrologer
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3621213b-62e1-4e51-b4f8-9d0d00e857a9.jpg)
+
+## Dorje L. Kirsten, Classical Astrologer
 
 Dorje Kirsten is a professional astrologer who offers a variety of services to personal and business clients. His method of reading the chart is based primarily on classical, traditional techniques, and informed by nearly 20 years of intensive Buddhist study and practice. Dorje has recieved a CMA (Certified Medieval Astrologer) certification from the AstroLogos school of astrology, having studied with the modern master Beranadette Brady.
 
@@ -30,7 +32,6 @@ There are many approaches to Western astrology. This one is dervied from the Gre
 When all of these aspects are combined, this method of reading the chart is accurate and exacting in terms of addressing current life dilemmas, and insightful in showing potential avenues for personal growth. What arises is a beautiful personal story that the planets and stars bring to your own unique individual mythic journey. For we can not control the fate that is cast upon us, but we can control our dynamic reaction to it, and thus influence our own growth as spiritual beings having a human experience. This is the goal of Heartastrology, to take astrology out of the realm of vague psychological truths and generic predictions into the heart of your experience.
 
 Dorje lives in Arcata, California, with his wife and four children. Astrology readings are done over the phone, through Skype, or in person. Readings are recorded and sent to you.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3621213b-62e1-4e51-b4f8-9d0d00e857a9.jpg)
 
 To schedule a reading with Dorje, please email:[appointments@heartastrology.com][0], or  
 call , or (707) 497-4300\.
