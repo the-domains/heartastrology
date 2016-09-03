@@ -1,20 +1,4 @@
-name: heartastrology
-favicon: null
-layout_spectrum: 0.741
 typography_spectrum: 0.74886
-title: Heartastrology
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#A690A4'
@@ -26,4 +10,21 @@ color:
   lightness: 0.5
   saturation: 0.39204393420368433
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.741
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: heartastrology
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Heartastrology
+description: 'An exploration of time, space, and interdependence'
 purpose: []
